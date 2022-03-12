@@ -1,8 +1,8 @@
 import * as THREE from 'three'
-import { GLTFLoader } from './jsm/loaders/GLTFLoader.js'
-import { OrbitControls } from './jsm/controls/OrbitControls.js'
-import Stats from './jsm/libs/stats.module.js'
-import { GUI } from './jsm/libs/lil-gui.module.min.js'
+// import { GLTFLoader } from './jsm/loaders/GLTFLoader.js'
+// import { OrbitControls } from './jsm/controls/OrbitControls.js'
+// import Stats from './jsm/libs/stats.module.js'
+// import { GUI } from './jsm/libs/lil-gui.module.min.js'
 
 let camera, scene, renderer, cube;
 
